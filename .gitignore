@@ -1,0 +1,21 @@
+# Dependências do Node (Back e Front)
+/node_modules
+
+# Arquivos de Build/Compilação
+/dist
+/build
+/out
+
+# Variáveis de Ambiente e Arquivos de Configuração Local (CRÍTICO PARA SEGURANÇA)
+.env
+.env.local
+.DS_Store
+
+# Logs e Cache
+npm-debug.log*
+yarn-debug.log*
+.log
+/tmp
+
+# Editor/IDE files (VS Code)
+.vscode/
